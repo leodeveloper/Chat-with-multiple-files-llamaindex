@@ -1,6 +1,8 @@
 # Chat-with-multiple-files-llamaindex
 Creating a chat application that can handle multiple files using LlamaIndex, OpenAI, and Streamlit involves several steps
 
+![Application Screenshot](https://github.com/leodeveloper/Chat-with-multiple-files-llamaindex/blob/main/llamaIndex-mutiple-Pdf-Chat.png)
+
 # Multi-File Chat Application
 
 This repository contains a chat application that allows users to upload multiple files, processes these files to extract information, and then uses an AI model (OpenAI's GPT-4) to answer questions or provide insights based on the content of the files. The application is built using Streamlit for the front-end interface, LlamaIndex for indexing and searching through the content, and OpenAI for the natural language processing capabilities.
